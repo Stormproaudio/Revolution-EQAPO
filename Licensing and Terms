@@ -1,0 +1,46 @@
+Storm Revolution EQAPO is automated Config fopr the EQ APO application by Jthedring https://sourceforge.net/projects/equalizerapo/
+
+ALL WORKS ARE LIVENSED PRIVATELY BY STORM PROAUDIO 2022
+
+Terms of Use - READ PLEASE !
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Storm Revolution EQ APO Zip Includes the Following files..
+1. Config.Txt this files is required to replace the default config.txt files in EQAPO main folder
+2. A Storm Proaudio Folder that consist of two of our Storm Revolution and Zenith 16bit 48KHz Impulse Response file
+
+INSTALLATION PROCEDURE AND STEPS :
+1. Download EQ APO from https://sourceforge.net/projects/equalizerapo/ and install on your PC at default location
+2. Download Storm EQ APO zip. Extract contents andextract to EQ APo default location. This is important if you extract
+at wrong location all our Preset wont work
+3. Find ERQ APO Configure Editor and Load. As default it will load the default Config.txt. So you must do Step 2 before this to make everything work
+4. Restart Again if necessary. By default you should See the Convolver Panel, Loudness Panel, Channel Pannel plus the main Frequency Response Section.
+
+WARNING - PLEASE READ!
+You user preset for Personmal use Only but Noty for Commercial or Resale
+OUR IRS WAV Files the Zenith and Revolution Files are Licensed Work and Designed by Storm Proaudio a Registered Comapany in Malaysia.
+DISTRIBUTING and REPACKAGIN AND REUPLOADING OR LINKING IS NOT PERMITTED !
+
+Contact :
+Via Email : Stormviper.group@gmail.com
+Via Telegram : https://t.me/stormrevolution
+Via Direct to Storm Admin : https://t.me/audiorebel
+
