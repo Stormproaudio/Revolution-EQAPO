@@ -17,5 +17,4 @@ Over 10 Mods Series for Viper and we remain as the most active Producer and Deve
 
 "Humble Enough to know that we are not better then Anybody. But Different from the rest.. "
 
-Berkatilah Ya Robb.
-- Storm
+Berkatilah Ya Robb -Storm
