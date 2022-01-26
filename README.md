@@ -11,6 +11,9 @@ highly recommended to test our Config and IRS..
 Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio and leave us a message.
 
 Storm Proaudio has custom Premium Impulse Response and Convolution file for lossless Full 
-HiRes playback. Contact us directly if you wish to test them..
+HiRes playback for EQAPO also Viper4android Mods and Presets which is the Storm Revolution 
 
-Thank You..
+Audio is Life and Food for Our Soul...
+
+Thank You
+Storm
