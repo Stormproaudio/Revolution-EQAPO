@@ -13,7 +13,7 @@ Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio and lea
 Storm Proaudio has custom Premium Impulse Response and Convolution file for lossless Full 
 HiRes playback for EQAPO also Viper4android Mods and Presets which is the Storm Revolution 
 
-Audio is Life and Food for Our Soul...
+Audio is Life and Food for Our Soul.. Berkatilah Ya Robb.
 
 Thank You
 Storm
