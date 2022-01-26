@@ -9,4 +9,4 @@ and focus on our Custom Impulse response Files.
 
 Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio
 Storm Proaudio has custom Premium Impulse Response and Convolution file for lossless Full 
-HiRes playback. Contact us directly if you wish to test them..
+HiRes playback. Contact us directly if you wish to test them..Thank You..
