@@ -8,6 +8,9 @@ We provide only basic EQAPO config with minimum Modules as we want you to test
 and focus on our Custom Impulse response Files. Ext DAC and Headphone amplifier
 highly recommended to test our Config and IRS..
 
-Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio
+Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio and leave us a message.
+
 Storm Proaudio has custom Premium Impulse Response and Convolution file for lossless Full 
-HiRes playback. Contact us directly if you wish to test them..Thank You..
+HiRes playback. Contact us directly if you wish to test them..
+
+Thank You..
