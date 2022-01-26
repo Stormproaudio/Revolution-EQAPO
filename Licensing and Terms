@@ -31,7 +31,7 @@ INSTALLATION PROCEDURE AND STEPS :
 1. Download EQ APO from https://sourceforge.net/projects/equalizerapo/ and install on your PC at default location
 2. Download Storm EQ APO zip. Extract contents andextract to EQ APo default location. This is important if you extract
 at wrong location all our Preset wont work
-3. Find ERQ APO Configure Editor and Load. As default it will load the default Config.txt. So you must do Step 2 before this to make everything work
+3. Find ERQ APO Configure Editor and Load. As default it will load the default Config.txt. Load Either Storm Revolution.txt or Storm Zenith.txt 
 4. Restart Again if necessary. By default you should See the Convolver Panel, Loudness Panel, Channel Pannel plus the main Frequency Response Section.
 
 WARNING - PLEASE READ!
