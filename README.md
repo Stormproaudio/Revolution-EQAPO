@@ -13,7 +13,7 @@ and Many More! In past 3 Years we have released over 40 Custom Preset with total
 Over 10 Viper Mods Series for Viper FX on Android Platform and we remain as the most active Producer
 and Developer of IRS for Viper to date. Its time we bring that to PC Windows Community !
 
-Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio and leave us a message.
-"Humble Enough to know that we are not better then Anybody. But Different from the rest.. "
+Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio and leave us a message..thanks
 
+"Humble Enough to know that we are not better then Anybody. But Different from the rest.. "
 Berkatilah Ya Robb -Storm
