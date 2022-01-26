@@ -12,8 +12,8 @@ Feedback? Report Issues? or Bugs goto https://facebook.com/StormProaudio and lea
 
 Storm Proaudio has custom Premium Impulse Response and Convolution file for lossless Full 
 HiRes playback for EQAPO also Viper4android Mods and Presets which is the Storm Revolution Series
-and Many More in the past 3 Years we have release over 40 Custom Preset and Over 10 Mods Series for 
-Viper and we remain as the most active Producer and Developer of IRS for Viper to date.
+and Many More in the past 3 Years we have release over 40 Custom Preset and Over 60 Custom IRS and
+Over 10 Mods Series for Viper and we remain as the most active Producer and Developer of IRS for Viper to date.
 
 Audio is Life and Food for Our Soul.. 
 
