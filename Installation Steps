@@ -1,15 +1,16 @@
-INSTALLATION STEPS!
+READ LICENSING AND TERMS
+https://github.com/Stormproaudio/Revolution-EQAPO/blob/main/Licensing%20and%20Terms
 
-REVOLUTION EQ APO CONFIGURATION:
+INSTALLATION STEPS! REVOLUTION EQ APO CONFIGURATION:
 
 Storm Revolution EQ APO Zip Includes the Following files..
 1. Config.Txt this files is required to replace the default config.txt files in EQAPO main folder
 2. A Storm Proaudio Folder that consist of two of our Storm Revolution and Zenith 16bit 48KHz Impulse Response file
 
-
 INSTALLATION PROCEDURE AND STEPS :
 1. Download EQ APO from https://sourceforge.net/projects/equalizerapo/ and install on your PC at default location
-2. Download Storm EQ APO zip. Extract contents andextract to EQ APO default location. This is important if you extract
+2. Download Storm EQ APO zip to extract you need a Key or Password which is in this Repository.
+3.Extract contents andextract to EQ APO default location. This is important if you extract
 at wrong location all our Preset wont work
-3. Find ERQ APO Configure Editor and Load. As default it will load the default Config.txt. Load Either Storm Revolution.txt or Storm Zenith.txt 
-4. Make SURE if you load Either Storm Revolution.txt or Storm Zenith.txt make sure you save as config.txt ONLY THEN YOU WILL HEAR the difference.
+4. Find ERQ APO Configure Editor and Load. As default it will load the default Config.txt. Load Either Storm Revolution.txt or Storm Zenith.txt 
+5. Make SURE if you load Either Storm Revolution.txt or Storm Zenith.txt make sure you save as config.txt ONLY THEN YOU WILL HEAR the difference.
