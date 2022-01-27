@@ -2,7 +2,7 @@
 Read the Licensing and Terms. 
 https://github.com/Stormproaudio/Revolution-EQAPO/blob/main/Licensing%20and%20Terms
 
-Once you download means you automaticly aggree to the terms.
+Once you download means you automaticaly aggree to the terms.
 We provide only basic EQAPO config with minimum Modules as we want you to test
 and focus on our Custom Impulse response Files. Ext DAC and Headphone amplifier
 highly recommended to test our Config and IRS..
