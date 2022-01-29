@@ -1,6 +1,6 @@
 # PLEASE README 
 
-Convolution Equalizers
+What is EQualiser APO is Convolution Equalizers
 Convolution equalizer is the most powerful type of equalizer software. These equalizers allow extremly precise control over the frequency response and the results are the same on all devices and platforms when using the same FIR filter. Convolution equalizer is the preferred way to use AutoEq results.
 
 AutoEq supports convolution equalizers with FIR filters as WAV files and with EqualizerAPO's GraphicEQ filter type. The default results contain FIR filters for both 44.1 kHz and 48 kHz sampling rates. Other sampling rates are supported but not given in the default results. EqualizerAPO's GraphicEQ works with any sampling rate.
@@ -9,10 +9,13 @@ To use the FIR filters, download the appropriate WAV file and import it to the E
 
 See EqualizerApo for instructions on how to use the GraphicEQ.
 
-Read the Licensing and Terms. 
+What is Storm Revolution EQAPO?
+Storm Proaudio is dewvelopers of Impulse Response Files (FIR) or Convolution Reverb Files. We are well known as Developer of Impulse Response Files foir Viper FX and application that uses these Impulses in the Android OS. We now have port those presets and our Custom IRs to Windows PC and implement it in Equaliser APO application
+
+
+Read the Licensing and Terms..Once you download means you automaticaly aggree to the terms!
 https://github.com/Stormproaudio/Revolution-EQAPO/blob/main/Licensing%20and%20Terms
 
-Once you download means you automaticaly aggree to the terms.
 We provide only basic EQAPO config with minimum Modules as we want you to test
 and focus on our Custom Impulse response Files. Ext DAC and Headphone amplifier
 highly recommended to test our Config and IRS..
