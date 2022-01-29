@@ -1,16 +1,11 @@
 # PLEASE README 
 
-What is EQualiser APO is Convolution Equalizers
-Convolution equalizer is the most powerful type of equalizer software. These equalizers allow extremly precise control over the frequency response and the results are the same on all devices and platforms when using the same FIR filter. Convolution equalizer is the preferred way to use AutoEq results.
-
+What is Equaliser APO 
+EQ APO app uses a Convolution equalizer , which is the most powerful type of equalizer software. These equalizers allow extremly precise control over the frequency response and the results are the same on all devices and platforms when using the same FIR filter. Convolution equalizer is the preferred way to use AutoEq results.
 AutoEq supports convolution equalizers with FIR filters as WAV files and with EqualizerAPO's GraphicEQ filter type. The default results contain FIR filters for both 44.1 kHz and 48 kHz sampling rates. Other sampling rates are supported but not given in the default results. EqualizerAPO's GraphicEQ works with any sampling rate.
 
-To use the FIR filters, download the appropriate WAV file and import it to the EQ software of your choice. Please keep in mind that not all EQ softwares support convolution. Some equalizers can load multiple FIR filters at the same time. Download both WAV files, create a Zip file containing both and load the Zip file to for example Roon.
-
-See EqualizerApo for instructions on how to use the GraphicEQ.
-
 What is Storm Revolution EQAPO?
-Storm Proaudio is dewvelopers of Impulse Response Files (FIR) or Convolution Reverb Files. We are well known as Developer of Impulse Response Files foir Viper FX and application that uses these Impulses in the Android OS. We now have port those presets and our Custom IRs to Windows PC and implement it in Equaliser APO application
+Storm Proaudio is dwvelopers of Impulse Response Files (FIR) or Convolution Reverb Files. We are well known as Developer of Impulse Response Files for Viper FX and application that uses these Impulses in the Android OS.  We now have port those presets and our Custom IRs to Windows PC and implement it in Equaliser APO application
 
 
 Read the Licensing and Terms..Once you download means you automaticaly aggree to the terms!
